@@ -48,11 +48,13 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg"
     title="Solana" alt="Solana" width="40" height="40" href="https://solana.com/">
 </div>
+<br></br>
+<div  align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=XXMKYX&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=XXMKYX&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <!--
 **XXMKYX/XXMKYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,4 +68,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
