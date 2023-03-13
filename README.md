@@ -49,6 +49,10 @@
     title="Solana" alt="Solana" width="40" height="40" href="https://solana.com/">
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=XXMKYX&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **XXMKYX/XXMKYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
