@@ -2,14 +2,14 @@
     <img  src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="200"/>
     <h1 align="center"> Hi there 👋 I'm Mike </h1>
     <h2 align="center"> I am a student of the last semesters of telematics engineering with computer skills as well as technology development, I am always willing to learn new things. </h2>
-    <h3 align="center"> Blockchain developer enthusiasm & Cat lover </h3>
+    <h3 align="center"> Web 3 development enthusiast & cat lover </h3>
 </div>
 <div id="badges" align="center">
     <a href="https://twitter.com/XxMKY_">
         <img src="https://img.shields.io/twitter/follow/XxMKY_?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
     </a>
 </div>
-<h1 align="center">⚡Languages and Tools: </h1>
+<h1 align="center">🛠️Languages and Tools🛠️</h1>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
     title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
@@ -48,17 +48,17 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg"
     title="Solana" alt="Solana" width="40" height="40" href="https://solana.com/">
 </div>
-<br></br>
+<h1 align="center">⚡ Stats ⚡</h1>
 <div  align="center">
     [![GitHub Streak](https://streak-stats.demolab.com?user=XXMKYX&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<!--
-**XXMKYX/XXMKYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **XXMKYX/XXMKYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
