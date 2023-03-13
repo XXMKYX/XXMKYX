@@ -10,6 +10,7 @@
     </a>
 </div>
 <h1 align="center">🛠️Languages and Tools🛠️</h1>
+<br></br>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
     title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
@@ -50,9 +51,10 @@
 </div>
 <h1 align="center">⚡ Stats ⚡</h1>
 <div  align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=XXMKYX&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=XXMKYX&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
