@@ -54,7 +54,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=XXMKYX&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XXMKYX&theme=midnight-purple&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
