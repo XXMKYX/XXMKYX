@@ -30,6 +30,8 @@
     title="Tailwindcss" alt="" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
     title="SASS" alt="" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+    title="Linux" alt="Linux" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
     title="MongoDB" alt="MongoDB" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"
@@ -46,6 +48,8 @@
     title="Rust" alt="Rust" width="40" height="40">
     <img src="https://www.anchor-lang.com/_next/image?url=%2Flogo.png&w=32&q=75"
     title="Anchor" alt="Anchor" width="40" height="40">
+    <img src="https://pbs.twimg.com/profile_images/1556384244598964226/S3cx06I2_400x400.jpg"
+    title="Seahorse" alt="Seahorse" width="40" height="40">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg"
     title="Solana" alt="Solana" width="40" height="40" href="https://solana.com/">
 </div>
