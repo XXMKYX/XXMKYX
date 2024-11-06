@@ -52,6 +52,8 @@
     title="Seahorse" alt="Seahorse" width="40" height="40">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg"
     title="Solana" alt="Solana" width="40" height="40" href="https://solana.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"
+    title="GCP" alt="GCP" width="40" height="40">
 </div>
 <h1 align="center">⚡ Stats ⚡</h1>
 <div  align="center">
