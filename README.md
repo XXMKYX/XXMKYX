@@ -44,14 +44,14 @@
     title="C#" alt="C#" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
     title="C" alt="C" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-    title="Git" alt="Git" width="40" height="40">
     <img src="https://www.anchor-lang.com/_next/image?url=%2Flogo.png&w=32&q=75"
     title="Anchor" alt="Anchor" width="40" height="40">
     <img src="https://pbs.twimg.com/profile_images/1556384244598964226/S3cx06I2_400x400.jpg"
     title="Seahorse" alt="Seahorse" width="40" height="40">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg"
     title="Solana" alt="Solana" width="40" height="40" href="https://solana.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+    title="Git" alt="Git" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"
     title="GCP" alt="GCP" width="40" height="40">
 </div>
