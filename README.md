@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img  src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="200"/>
     <h1 align="center"> Hi there 👋 I'm Mike </h1>
-    <h2 align="center"> I am a telematics engineering with computer skills as well as technology development, I am always willing to learn new things. </h2>
+    <h2 align="center"> I am a telematics engineer with computer skills as well as technology development, I am always willing to learn new things. </h2>
     <h3 align="center"> Web 3 and AI development enthusiast || cat lover </h3>
 </div>
 <div id="badges" align="center">
